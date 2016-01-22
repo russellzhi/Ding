@@ -1,0 +1,24 @@
+{
+    "name": "russellzhi/utility",
+    "type": "library",
+    "description": "common used classes",
+    "keywords": ["captcha","pagination","file upload"],
+    "homepage": "https://github.com/russellzhi/ding",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dezhi Ding",
+            "email": "russellzhi@163.com",
+            "homepage": "http://ddz.name",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Russellzhi\\Utility": "src"
+        }
+    }
+}
