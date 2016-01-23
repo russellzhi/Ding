@@ -1,6 +1,6 @@
 <?php
 
-namespace russellzhi\Utils; 
+namespace russellzhi\utility; 
 class Page {
 	private $total; //数据表中总记录数
 	private $listRows; //每页显示行数
