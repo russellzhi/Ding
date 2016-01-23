@@ -3,7 +3,7 @@
 *	Hello buddy,you are awesome to choose sprint,this is a very light-weight php *
 *	framework with high performance and you will like it!						 *
 *********************************************************************************/
-namespace russellzhi\Utils;
+namespace russellzhi\utility;
 class Image {
 	protected $path;   //图片所在的路径
 
