@@ -1,5 +1,5 @@
 <?php
-namespace russellzhi\Utils; 
+namespace russellzhi\utility; 
 class SysInfo {
 	private $gd;
 	private $serverEnv;
