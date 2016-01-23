@@ -3,7 +3,7 @@
 *	Hello buddy,you are awesome to choose sprint,this is a very light-weight php *
 *	framework with high performance and you will like it!						 *
 *********************************************************************************/
-namespace russellzhi\Utils;
+namespace russellzhi\utility;
 class FileUpload extends Image{	
 	private $allowtype = array('jpg','gif','png'); //限制上传文件的类型,可以使用set()设置，使用小字母
 	private $maxsize = 1000000;  //限制文件上传大小，单位是字节,可以使用set()设置
