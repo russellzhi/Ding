@@ -3,7 +3,7 @@
 *	Hello buddy,you are awesome to choose sprint,this is a very light-weight php *
 *	framework with high performance and you will like it!						 *
 *********************************************************************************/
-namespace russellzhi\Utils;
+namespace russellzhi\utility;
 class  Vcode {
 	private $width;                               //验证码图片的宽度
 	private $height;                              //验证码图片的高度
