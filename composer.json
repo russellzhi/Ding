@@ -3,13 +3,13 @@
     "type": "library",
     "description": "common used classes",
     "keywords": ["captcha","pagination","file upload"],
-    "homepage": "https://github.com/russellzhi/ding",
+    "homepage": "https://github.com/russellzhi",
     "license": "MIT",
     "authors": [
         {
             "name": "Dezhi Ding",
             "email": "russellzhi@163.com",
-            "homepage": "http://ddz.name",
+            "homepage": "https://ddz.name",
             "role": "Developer"
         }
     ],
